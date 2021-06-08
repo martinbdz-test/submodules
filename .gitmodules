@@ -1,0 +1,3 @@
+[submodule "php-my-app"]
+	path = php-my-app
+	url = git@github.com:martinbdz-test/php-my-app.git
